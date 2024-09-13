@@ -1,4 +1,4 @@
-Day06 如何註冊和設置 Make.com 帳戶
+Day06 如何註冊 Make.com 帳戶、頁面簡介
 
 可以直接點選以下連結註冊，可使用 Google, Facebook, Github 直耶第三方登入。
 [免費一個月 pro 會員](https://www.make.com/en/register?pc=automateyoureverydayhttps://www.make.com/en/register?pc=automateyoureveryday)
