@@ -1,4 +1,4 @@
-Day13 處理和轉換數據(3)：日期、文字、數字處理
+Day14 處理和轉換數據(3)：日期、文字、數字處理
 
 實作是最好的練習，且有概念需要實做、操作才能更了解，我這邊會提供藍圖來做下載，可以當作每天的練習，匯入並且嘗試看看效果，下載我的[藍圖](https://drive.google.com/drive/folders/1Dpz4c-BdeMZziNrlVK3hQkyCx_q8_rE9?usp=sharing)，匯入進去操作看看。
 匯入方法 [Day09 使用藍圖](https://ithelp.ithome.com.tw/articles/10352992)
