@@ -15,40 +15,37 @@
 30 篇計劃
 流程自動化的介紹
 
-1. Day01 自動化你的每一天 - 流程自動化
-2. Day02 各種自動化工具的介紹
+1. [Day01 自動化你的每一天 - 流程自動化](https://ithelp.ithome.com.tw/articles/10348559)
+2. [Day02 各種自動化工具的介紹](https://ithelp.ithome.com.tw/articles/10348909)
    - RPA 和 流程自動化工具的差別
-3. Day03 導入流程自動化的過程
-4. Day04 自動化的思維
+3. [Day03 導入流程自動化的過程](https://ithelp.ithome.com.tw/articles/10349416)
+4. [Day04 自動化的思維](https://ithelp.ithome.com.tw/articles/10349770)
 
 Make 自動化 基本介紹
 
-1. Day05 什麼是 Make？ Make 的基本功能、學習資源
-2. Day06 如何註冊 Make.com 帳戶、頁面簡介
-3. Day07 探索 Make 自動化 的介面
-4. Day08 第一個工作流程：從零開始設計
-5. Day09 使用藍圖、小工具介紹
-6. Day10 Modules, Bundle, 資料型態（權限的重新連接）
-7. Day11 整合應用程式：如何連接常用工具
-   - 將常用應用程式（如 Google Sheets、Slack）與 Make 整合。
-8. Day12 處理和轉換數據：數據過濾與格式化(1)
-9. Day13 處理和轉換數據：數據過濾與格式化(2)
-   - 解釋如何在工作流程中處理和轉換數據，實現數據過濾與格式化。
-10. Day14 條件邏輯：根據條件自動化
-11. Day15 迴圈與批量操作
-12. Day16 自動化電子郵件通知
+1. [Day05 什麼是 Make？ Make 的基本功能、學習資源](https://ithelp.ithome.com.tw/articles/10349794)
+2. [Day06 如何註冊 Make.com 帳戶、頁面簡介](https://ithelp.ithome.com.tw/articles/10350311)
+3. [Day07 探索 Make 自動化 的介面](https://ithelp.ithome.com.tw/articles/10351241)
+4. [Day08 第一個工作流程：從零開始設計](https://ithelp.ithome.com.tw/articles/10352203)
+5. [Day09 使用藍圖、小工具介紹](https://ithelp.ithome.com.tw/articles/10352992)
+6. [Day10 Modules, Bundle, 資料型態](https://ithelp.ithome.com.tw/articles/10353650)
+7. [Day11 如何將參數傳遞至下一個模組](https://ithelp.ithome.com.tw/articles/10354343)
+8. [Day12 處理和轉換數據(1)：數據過濾與格式化](https://ithelp.ithome.com.tw/articles/10355002)
+9. [Day13 處理和轉換數據(2)：array 的處理、和原始樣態](https://ithelp.ithome.com.tw/articles/10355654)
+10. [Day14 處理和轉換數據(3)：日期、文字、數字處理](https://ithelp.ithome.com.tw/articles/10355750)
+11. [Day15 實例應用(1) - 表單自動寄信](https://arc.net/l/quote/lzgnumoa)
+12. [Day16 實例應用(2) - 表單預約會議室](https://ithelp.ithome.com.tw/articles/10357653)
+13. [Day17 實例應用(3) - 自己製作 Line 個人助理(1)](https://arc.net/l/quote/vbaqfqgf)
+14. [Day18 實例應用(4) - Line 個人助理自動添加行事曆](https://ithelp.ithome.com.tw/articles/10358927)
 
 Make 自動化 進階介紹
 
-1. Day17 error handling
-2. Day18 使用 Webhooks 擴展功能
-   - 介紹 Webhooks 的概念，並教你如何在 Make 中設置和使用它們。
-3. Day19 Line 機器人的使用
-4. Day20 整合 AI 工具進行自動化
+1. [Day19 Line 機器人的使用]()
+2. [Day20 整合 AI 工具進行自動化]()
    - 如何將 AI 工具與 Make.com 整合，實現更智能的自動化。
-5. Day21 進階處理數據：數據過濾與格式化(1)
-6. Day22 進階處理數據：數據過濾與格式化(2)
-7. Day23 寫複雜函數的小技巧
+3. [Day21 進階處理數據：數據過濾與格式化(1)]()
+4. [Day22 進階處理數據：數據過濾與格式化(2)]()
+5. [Day23 寫複雜函數的小技巧]()
 
 其他
 
