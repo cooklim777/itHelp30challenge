@@ -49,13 +49,16 @@ Make 自動化 進階介紹
 
 其他
 
-1. Day24 Make 的安全性與合規性
+1. [Day24 Make.com AI 使用、Make 模板](https://ithelp.ithome.com.tw/articles/10362270)
+2. [Day25 Make.com 的安全性與合規性](https://ithelp.ithome.com.tw/articles/10362824)
    - 探討 Make 的安全性特點，並解釋如何確保工作流程的合規性。
-2. Day25 Make 與 RPA 的比較
+3. [Day26 與 Zapier 的比較：哪個適合你的業務？](https://ithelp.ithome.com.tw/articles/10363321)
+   - 對比 Make 和 Zapier，選擇最適合的自動化工具。
+4. [Day27 RPA 是什麼？ 和 Make.com 的比較]()
    - 分析 Make 與 RPA 的差異，並探討兩者的應用場景。
-3. Day26 與 Zapier 的比較：哪個適合你的業務？
-   - 對比 Make 和 Zapier，幫助讀者選擇最適合的自動化工具。
-4. Day27 總結與展望
+5. [Day28 RPA 產品比較](https://ithelp.ithome.com.tw/articles/10364312)
+6. [Day29 工作流程自動化、RPA 線上資源](https://ithelp.ithome.com.tw/articles/10364885)
+7. [Day30 工作流程自動化、RPA 未來展望](https://ithelp.ithome.com.tw/articles/10365316)
 
 前往自動化的過程中一定有些陣痛期，但當完成時，就能省下你大量的時間，你能夠做其他更多事情。
 
